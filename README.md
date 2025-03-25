@@ -1,3 +1,3 @@
 # Encoder/Decoder for Mors Code
 
-Simple encoder/decoder for mors code. 
+Simple encoder/decoder for user-entered text/encrypted code.   
